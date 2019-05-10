@@ -1,0 +1,11 @@
+# idea ignore
+.idea/
+
+# vscode ignore
+.vscode/
+
+*.swp
+
+# temp ignore
+vendor/*
+runtime/*
